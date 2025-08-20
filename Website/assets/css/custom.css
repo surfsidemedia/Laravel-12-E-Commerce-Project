@@ -1,0 +1,46 @@
+.widget-about ul{
+    margin-top:30px;
+}
+.widget-about ul li{
+    line-height: 33px;
+}
+.widget-title {
+    font-size: 20px;
+    color: #ffffff;
+    background: #96b8ba;
+    padding: 8px 5px;
+    border-left: 5px solid #f2a100;
+}
+.brand-logo {
+    background-color: #fafafa;
+    padding: 50px 0;
+}
+.brand-logo .single-brand-02 img {
+    opacity: 1;   
+}
+.brand-logo .single-brand-02 img {
+    opacity: 1;
+    border-radius: 50%;
+    border: 2px solid #f2a100 !important;
+    padding: 5px;
+}
+.brand-logo .swiper-slide {                        
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px 10px;
+}
+
+.footer-link-m {
+    columns: 2; 
+    list-style-type: none;
+}
+
+.footer-link-m li {
+    break-inside: avoid;
+}
+
+@media screen and (max-width: 600px) {
+    .copyright .col-md-6 {
+        text-align: center !important;
+    }    
+}
